@@ -1,5 +1,4 @@
-# Hackintosh-SEQUOIA-ASUS_Prime_H370-Plus_HD630_VirtualSMC
-HACK on Asus H370
+# Hackintosh Sequoia on motherboard ASUS_Prime_H370-Plus with HD630 and Radeon Pro WX 4100
 
 List of /Clover/Drivers/UEFI
 
